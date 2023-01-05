@@ -1,0 +1,16 @@
+body {
+	font-family: "DejaVu Sans Mono", mono;
+	font-size: 1.125em;
+	line-height: 1.4;
+	max-width: 72ch;
+	margin: auto;
+	color: #a2691f;
+	background-color: #101010;
+}
+
+a { color: #eea000; }
+
+h1, h2, h3 {
+	line-height: 1;
+	margin-bottom: 0.5em;
+}
